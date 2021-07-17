@@ -94,7 +94,7 @@ def extract_relation(head,head_label,tail,tail_label,timeout):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='wikirelaitonextraction')
     parser.add_argument('--wiki_path', type=str,help='wikipedia data path')
     parser.add_argument('--save_path', type=str, help='save_path')
     parser.add_argument('--time_out', type=int, default=3)
