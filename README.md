@@ -1,6 +1,6 @@
 # wiki_relation_extraction
 
-> python--wiki_path <wikipedia_path> --save_path <save_path>
+> python extract_relation_from_wikipedia.py --wiki_path <wikipedia_path> --save_path <save_path>
 
 wikipedia 英文语料:
 百度网盘:https://pan.baidu.com/s/1YmoG_ZGr4_t-nGWuLR-gWA  提取码：jwud 
